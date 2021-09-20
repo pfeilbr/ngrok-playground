@@ -2,7 +2,7 @@
 
 learn [ngrok npm package](https://github.com/bubenshchykov/ngrok)
 
-see [`index.js`](index.js) - 
+see [`index.js`](index.js)
 
 ## Demo
 
